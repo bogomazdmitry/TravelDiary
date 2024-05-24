@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1716514150470,
+  "timestamp": 1716514259901,
   "index": "https://bogomazdmitry.github.io/TravelDiary/index.html",
   "assetGroups": [
     {
@@ -30,14 +30,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-128x128.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-144x144.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-152x152.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-192x192.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-384x384.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-512x512.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-72x72.png",
-        "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-96x96.png",
         "https://bogomazdmitry.github.io/TravelDiary/assets/images/love.png",
         "https://bogomazdmitry.github.io/TravelDiary/layers-2x.9859cd1231006a4a.png",
         "https://bogomazdmitry.github.io/TravelDiary/layers.ef6db8722c2c3f9a.png",
@@ -51,14 +43,6 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-128x128.png": "9f50776d3916b887a7f674567e99abf64548257c",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-144x144.png": "6d1e8fcf7d83e4e4b11db7871ebb462afd267714",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-152x152.png": "bc314020712d47b9359bd3866515ed4bd088513a",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-192x192.png": "883b23e275f45a7462882f8c169c3518b409b1a2",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-384x384.png": "73af18eaaa8d9600603f9ce32142987f936e9055",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-512x512.png": "dc95561248561e655c76a605e78f0db70f949bf5",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-72x72.png": "da1bcea808b4ee65ddaa4c78da4d7d1979f890ae",
-    "https://bogomazdmitry.github.io/TravelDiary/assets/icons/icon-96x96.png": "38f8a9f4201cca083506d7b0b03f062dbb4ac93b",
     "https://bogomazdmitry.github.io/TravelDiary/assets/images/love.png": "8820de5d7ddc06db33792a47f0e2c1df68f487c0",
     "https://bogomazdmitry.github.io/TravelDiary/favicon.ico": "a6805b415768a73bf9aef81770abb101530678f5",
     "https://bogomazdmitry.github.io/TravelDiary/index.html": "cc91ac9af8c28f7ecc4b95d55ce17b484163d574",
