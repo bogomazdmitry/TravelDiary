@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1716514564114,
-  "index": "https://bogomazdmitry.github.io/traveldiary/index.html",
+  "timestamp": 1716514259901,
+  "index": "https://bogomazdmitry.github.io/TravelDiary/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://bogomazdmitry.github.io/traveldiary/favicon.ico",
-        "https://bogomazdmitry.github.io/traveldiary/index.html",
-        "https://bogomazdmitry.github.io/traveldiary/main.c519d75ef38c0df1.js",
-        "https://bogomazdmitry.github.io/traveldiary/manifest.webmanifest",
-        "https://bogomazdmitry.github.io/traveldiary/polyfills.22ebff39d28641b4.js",
-        "https://bogomazdmitry.github.io/traveldiary/runtime.81f5afeb53a73c96.js",
-        "https://bogomazdmitry.github.io/traveldiary/scripts.1ac6d0d02f230370.js",
-        "https://bogomazdmitry.github.io/traveldiary/styles.f0aa93fec36266a3.css"
+        "https://bogomazdmitry.github.io/TravelDiary/favicon.ico",
+        "https://bogomazdmitry.github.io/TravelDiary/index.html",
+        "https://bogomazdmitry.github.io/TravelDiary/main.c519d75ef38c0df1.js",
+        "https://bogomazdmitry.github.io/TravelDiary/manifest.webmanifest",
+        "https://bogomazdmitry.github.io/TravelDiary/polyfills.22ebff39d28641b4.js",
+        "https://bogomazdmitry.github.io/TravelDiary/runtime.81f5afeb53a73c96.js",
+        "https://bogomazdmitry.github.io/TravelDiary/scripts.1ac6d0d02f230370.js",
+        "https://bogomazdmitry.github.io/TravelDiary/styles.f0aa93fec36266a3.css"
       ],
       "patterns": []
     },
@@ -30,18 +30,10 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-128x128.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-144x144.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-152x152.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-192x192.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-384x384.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-512x512.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-72x72.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-96x96.png",
-        "https://bogomazdmitry.github.io/traveldiary/assets/images/love.png",
-        "https://bogomazdmitry.github.io/traveldiary/layers-2x.9859cd1231006a4a.png",
-        "https://bogomazdmitry.github.io/traveldiary/layers.ef6db8722c2c3f9a.png",
-        "https://bogomazdmitry.github.io/traveldiary/marker-icon.d577052aa271e13f.png"
+        "https://bogomazdmitry.github.io/TravelDiary/assets/images/love.png",
+        "https://bogomazdmitry.github.io/TravelDiary/layers-2x.9859cd1231006a4a.png",
+        "https://bogomazdmitry.github.io/TravelDiary/layers.ef6db8722c2c3f9a.png",
+        "https://bogomazdmitry.github.io/TravelDiary/marker-icon.d577052aa271e13f.png"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
@@ -51,26 +43,18 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-128x128.png": "9f50776d3916b887a7f674567e99abf64548257c",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-144x144.png": "6d1e8fcf7d83e4e4b11db7871ebb462afd267714",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-152x152.png": "bc314020712d47b9359bd3866515ed4bd088513a",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-192x192.png": "883b23e275f45a7462882f8c169c3518b409b1a2",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-384x384.png": "73af18eaaa8d9600603f9ce32142987f936e9055",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-512x512.png": "dc95561248561e655c76a605e78f0db70f949bf5",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-72x72.png": "da1bcea808b4ee65ddaa4c78da4d7d1979f890ae",
-    "https://bogomazdmitry.github.io/traveldiary/assets/icons/icon-96x96.png": "38f8a9f4201cca083506d7b0b03f062dbb4ac93b",
-    "https://bogomazdmitry.github.io/traveldiary/assets/images/love.png": "8820de5d7ddc06db33792a47f0e2c1df68f487c0",
-    "https://bogomazdmitry.github.io/traveldiary/favicon.ico": "a6805b415768a73bf9aef81770abb101530678f5",
-    "https://bogomazdmitry.github.io/traveldiary/index.html": "9f1f817a83c0b0d74436826199bac422bf24103b",
-    "https://bogomazdmitry.github.io/traveldiary/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
-    "https://bogomazdmitry.github.io/traveldiary/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "https://bogomazdmitry.github.io/traveldiary/main.c519d75ef38c0df1.js": "5141609fe0439b55f77fed776c0ef792d204d596",
-    "https://bogomazdmitry.github.io/traveldiary/manifest.webmanifest": "adc64a371806c22cf6b482095951be2e4183e3e6",
-    "https://bogomazdmitry.github.io/traveldiary/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
-    "https://bogomazdmitry.github.io/traveldiary/polyfills.22ebff39d28641b4.js": "91a6dde2c1b9cc6e00b6818f316a93f7fb482b9e",
-    "https://bogomazdmitry.github.io/traveldiary/runtime.81f5afeb53a73c96.js": "9e817656355592bfa9469c98f6807902ee5f211f",
-    "https://bogomazdmitry.github.io/traveldiary/scripts.1ac6d0d02f230370.js": "3e03c7963828ff9539f82dcd788ff3ac916212d2",
-    "https://bogomazdmitry.github.io/traveldiary/styles.f0aa93fec36266a3.css": "a8b21259f4af6ab6fdc58f8f2af72d8b228b46b7"
+    "https://bogomazdmitry.github.io/TravelDiary/assets/images/love.png": "8820de5d7ddc06db33792a47f0e2c1df68f487c0",
+    "https://bogomazdmitry.github.io/TravelDiary/favicon.ico": "a6805b415768a73bf9aef81770abb101530678f5",
+    "https://bogomazdmitry.github.io/TravelDiary/index.html": "cc91ac9af8c28f7ecc4b95d55ce17b484163d574",
+    "https://bogomazdmitry.github.io/TravelDiary/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "https://bogomazdmitry.github.io/TravelDiary/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "https://bogomazdmitry.github.io/TravelDiary/main.c519d75ef38c0df1.js": "5141609fe0439b55f77fed776c0ef792d204d596",
+    "https://bogomazdmitry.github.io/TravelDiary/manifest.webmanifest": "adc64a371806c22cf6b482095951be2e4183e3e6",
+    "https://bogomazdmitry.github.io/TravelDiary/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "https://bogomazdmitry.github.io/TravelDiary/polyfills.22ebff39d28641b4.js": "91a6dde2c1b9cc6e00b6818f316a93f7fb482b9e",
+    "https://bogomazdmitry.github.io/TravelDiary/runtime.81f5afeb53a73c96.js": "9e817656355592bfa9469c98f6807902ee5f211f",
+    "https://bogomazdmitry.github.io/TravelDiary/scripts.1ac6d0d02f230370.js": "3e03c7963828ff9539f82dcd788ff3ac916212d2",
+    "https://bogomazdmitry.github.io/TravelDiary/styles.f0aa93fec36266a3.css": "a8b21259f4af6ab6fdc58f8f2af72d8b228b46b7"
   },
   "navigationUrls": [
     {
