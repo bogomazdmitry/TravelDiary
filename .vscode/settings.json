@@ -1,0 +1,10 @@
+{
+    "files.eol": "\n",
+    "files.insertFinalNewline": false,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

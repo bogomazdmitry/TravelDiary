@@ -1,0 +1,74 @@
+{
+  "name": "angular-worktool",
+  "version": "1.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "build:prod": "ng build --base-href \"https://bogomazdmitry.github.io/WorkTool/\"",
+    "deploy": "npx angular-cli-ghpages --dir=dist/angular-worktool --no-silent",
+    "test": "ng test",
+    "lint": "ng lint"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^17.3.9",
+    "@angular/cdk": "^17.3.9",
+    "@angular/cli": "^17.3.7",
+    "@angular/common": "^17.3.9",
+    "@angular/compiler": "^17.3.9",
+    "@angular/core": "^17.3.9",
+    "@angular/fire": "^17.1.0",
+    "@angular/forms": "^17.3.9",
+    "@angular/material": "^17.3.9",
+    "@angular/platform-browser": "^17.3.9",
+    "@angular/platform-browser-dynamic": "^17.3.9",
+    "@angular/router": "^17.3.9",
+    "@angular/service-worker": "^17.3.9",
+    "bootstrap": "^5.3.3",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.6"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.7",
+    "@angular-eslint/builder": "17.4.1",
+    "@angular-eslint/eslint-plugin": "17.4.1",
+    "@angular-eslint/eslint-plugin-template": "17.4.1",
+    "@angular-eslint/schematics": "17.4.1",
+    "@angular-eslint/template-parser": "17.4.1",
+    "@angular/compiler-cli": "^17.3.9",
+    "@ngtools/webpack": "^17.3.7",
+    "@types/jasmine": "~3.10.0",
+    "@types/node": "^12.11.1",
+    "@types/pako": "^2.0.0",
+    "@types/uuid": "^9.0.1",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "angular-cli-ghpages": "^1.0.7",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.3",
+    "jasmine-core": "~4.0.0",
+    "karma": "~6.3.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.1.0",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "~1.7.0",
+    "lint-staged": "^13.2.3",
+    "prettier": "^2.8.8",
+    "typescript": "^5.4.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged --relative"
+    }
+  },
+  "lint-staged": {
+    "*.{js,ts}": [
+      "eslint --fix"
+    ]
+  }
+}
