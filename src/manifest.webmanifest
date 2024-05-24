@@ -1,6 +1,6 @@
 {
-  "name": "Worktool",
-  "short_name": "Worktool",
+  "name": "traveldiary",
+  "short_name": "traveldiary",
   "theme_color": "#383434",
   "background_color": "#fafafa",
   "display": "standalone",

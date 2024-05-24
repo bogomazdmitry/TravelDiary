@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-worktool": {
+    "angular-traveldiary": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -20,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-worktool",
+            "outputPath": "dist/angular-traveldiary",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -49,6 +49,7 @@
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "node_modules/bootstrap/scss/bootstrap.scss",
+              "node_modules/leaflet/dist/leaflet.css",
               "src/styles/styles.scss"
             ],
             "scripts": [
@@ -94,10 +95,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-worktool:build:production"
+              "buildTarget": "angular-traveldiary:build:production"
             },
             "development": {
-              "buildTarget": "angular-worktool:build:development"
+              "buildTarget": "angular-traveldiary:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -105,7 +106,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "angular-worktool:build"
+            "buildTarget": "angular-traveldiary:build"
           }
         },
         "test": {
@@ -123,6 +124,7 @@
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
+              "node_modules/leaflet/dist/leaflet.css",
               "src/styles/styles.scss"
             ],
             "scripts": []

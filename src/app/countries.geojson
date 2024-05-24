@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    }
+  ]
+}
